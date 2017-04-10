@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/syychen/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/syychen/.android/build-cache/a5dbbad159e8ac86820234e9c84dbc0006c8ae96/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/syychen/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/syychen/.android/build-cache/a5dbbad159e8ac86820234e9c84dbc0006c8ae96/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/syychen/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/syychen/.android/build-cache/a5dbbad159e8ac86820234e9c84dbc0006c8ae96/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/syychen/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/syychen/.android/build-cache/a5dbbad159e8ac86820234e9c84dbc0006c8ae96/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/syychen/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/syychen/.android/build-cache/b466a1607b7aaae3525d2fa9a7af26e4c1f4baf8/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

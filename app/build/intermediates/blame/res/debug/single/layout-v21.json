@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/syychen/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/syychen/.android/build-cache/a5dbbad159e8ac86820234e9c84dbc0006c8ae96/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/syychen/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/syychen/.android/build-cache/a5dbbad159e8ac86820234e9c84dbc0006c8ae96/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/syychen/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/syychen/.android/build-cache/a5dbbad159e8ac86820234e9c84dbc0006c8ae96/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/syychen/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/syychen/.android/build-cache/a5dbbad159e8ac86820234e9c84dbc0006c8ae96/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

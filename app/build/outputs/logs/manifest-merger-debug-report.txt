@@ -1,0 +1,82 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/syychen/.android/build-cache/be4e9f780a7376ec6d2cd271ce31b26ba65dfeea/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.0.1] /Users/syychen/.android/build-cache/b466a1607b7aaae3525d2fa9a7af26e4c1f4baf8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/syychen/.android/build-cache/a5dbbad159e8ac86820234e9c84dbc0006c8ae96/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/syychen/.android/build-cache/415a29b00388e229ea6dda7da562f4f71db9b83b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/syychen/.android/build-cache/ff0608bb2e299bea214233d379b05664a99f0adc/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.1] /Users/syychen/.android/build-cache/fdda40517cb95957d806fd8f66b32f8443fbc455/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.1] /Users/syychen/.android/build-cache/2770b66dcb05263c1c50da4fb823ee3e39f99101/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/syychen/.android/build-cache/8e20fba2c4233e82b0255e3ea5d34e762815ceec/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/syychen/.android/build-cache/222be96bdbd77f15bf22c9dcb1f963421fe8bd18/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/syychen/.android/build-cache/79c15428dacee7f65a80bb17955b5d197adcce4e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/syychen/.android/build-cache/c9e273ca46d8482713edf07af332a68d3afbc45e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /Users/syychen/.android/build-cache/ddb7abfa692bc9cf9387e95c0ac73e4c205694b1/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.syychen.testproject.MainActivity
+ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/syychen/.android/build-cache/be4e9f780a7376ec6d2cd271ce31b26ba65dfeea/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.0.1] /Users/syychen/.android/build-cache/b466a1607b7aaae3525d2fa9a7af26e4c1f4baf8/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/syychen/.android/build-cache/a5dbbad159e8ac86820234e9c84dbc0006c8ae96/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/syychen/.android/build-cache/415a29b00388e229ea6dda7da562f4f71db9b83b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/syychen/.android/build-cache/ff0608bb2e299bea214233d379b05664a99f0adc/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] /Users/syychen/.android/build-cache/d15caa693bb65132f6c08412f1746dda8fce215c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.1] /Users/syychen/.android/build-cache/fdda40517cb95957d806fd8f66b32f8443fbc455/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.1] /Users/syychen/.android/build-cache/2770b66dcb05263c1c50da4fb823ee3e39f99101/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/syychen/.android/build-cache/8e20fba2c4233e82b0255e3ea5d34e762815ceec/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/syychen/.android/build-cache/222be96bdbd77f15bf22c9dcb1f963421fe8bd18/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/syychen/.android/build-cache/79c15428dacee7f65a80bb17955b5d197adcce4e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/syychen/.android/build-cache/c9e273ca46d8482713edf07af332a68d3afbc45e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] /Users/syychen/.android/build-cache/ddb7abfa692bc9cf9387e95c0ac73e4c205694b1/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] /Users/syychen/.android/build-cache/b466a1607b7aaae3525d2fa9a7af26e4c1f4baf8/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/syychen/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
